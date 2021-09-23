@@ -1,4 +1,3 @@
-# allegro_Behave
 Creation date: 10.08.2019
 
 Simple playground to try a Python language along with Behave framework.
